@@ -14,3 +14,6 @@ Group lab location: L128
 
 Project description:
 The Website we decided to develop is a food supply chain transparency viewer. It will help users understand how food moves through real-world supply systems, from farm to consumer.
+
+My Contribution
+As part of this four-person team project, I designed and developed the HTML for the About and References pages and contributed to the project through an individual Git branch and shared Git workflow.
